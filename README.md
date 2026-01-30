@@ -9,20 +9,13 @@
 
 ### Delara :
 ### Liked
-- successfully set up the project structure for frontend and backend.
-- Using Trello helped us track tasks and responsibilities clearly.
-- GitHub was effective for collaboration and version control.
+- Project structure setup and task tracking using Trello and GitHub went smoothly.
 ### Learned
-- learned how to break user stories into technical tasks.
-- improved understanding of React component structure and Express APIs.
-- learned how frontend and backend communicate through APIs.
+- Learned to break user stories into technical tasks and integrate React with Express APIs.
 ### Lacked
-- Backend and frontend integration took more time than expected.
-- Some Git conflicts occurred due to parallel work.
+- Frontend–backend integration and Git conflict handling took more time than expected.
 ### Longed For
-- Better task breakdown before starting development.
-- Clearer API contracts between frontend and backend.
-- Reduced stress through better time planning.
+- Better task planning, clearer API contracts, and improved time management.
 
 ### Dornaraj
 -	Liked: Frontend design
@@ -39,6 +32,7 @@
 # Sprint 2 Goal
 By the end of Sprint 2, the team will deliver a working front-end and back-end structure aligned with the Sprint 1 prototype, including mock data, and initial AI-related endpoints.
 
+# 4. Product Backlog Review and Creation
 # Product Backlog – Food E-commerce 
 
 As the **Product Owner**, I ensured that a Product Backlog exists for the MERN-based Food E-commerce application. The Product Backlog has been created and maintained to provide a clear, prioritized view of all work required for the project.
