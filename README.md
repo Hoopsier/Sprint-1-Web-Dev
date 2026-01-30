@@ -140,6 +140,24 @@ Create an initial AI-related endpoint that returns mock or rule-based food recom
 **Responsible:** Backend Developer  
 ## Sprint ceremonies' insights
 **Renan:** The ceremonies so far have been insightful. People are more likey to be caught unaware of something, resulting in others helping to fix that "bump on the road." 
+
+Sprint Ceremonies – Team Insights
+Daily Scrum
+
+Daily Scrums helped the team stay aware of ongoing tasks and blockers, even when meetings were short or asynchronous. We noticed that regular check-ins improved transparency, but consistency needs improvement to fully benefit from this ceremony.
+
+Sprint Review
+
+The Sprint Review allowed the team to reflect on what was completed and compare outcomes with the original Sprint Goal. Reviewing the prototype and backlog together helped align expectations and identify gaps early.
+
+Retrospective
+
+The Retrospective encouraged honest reflection on teamwork, communication, and task distribution. Using the 4L method made it easier to express feedback and highlight areas for improvement in a structured way.
+
+More on Scrum
+
+Overall, Scrum helped the team organize work incrementally and maintain focus on deliverables. We learned that clear roles, frequent communication, and realistic planning are essential for making Scrum effective in practice.
+
 ## Summary
 
 The Sprint 2 Backlog was derived from the Product Backlog and aligned with Sprint 2 deliverables.All items are estimated using story points and assigned to responsible team members.  
