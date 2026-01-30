@@ -38,6 +38,7 @@
 
 - Longed For: Closer collaboration with the team to refine navigation logic and user experience.
 
+Prototype (Low-Fidelity – Figma):
 https://www.figma.com/design/Lpyjul1x8cQWLTdM5JiIDr/YumDrop.com?node-id=32-274&t=x8JrvWecVuaC9dyf-1
 
 # Sprint 2 Goal
@@ -141,20 +142,19 @@ Create an initial AI-related endpoint that returns mock or rule-based food recom
 ## Sprint ceremonies' insights
 **Renan:** The ceremonies so far have been insightful. People are more likey to be caught unaware of something, resulting in others helping to fix that "bump on the road." 
 
-Sprint Ceremonies – Team Insights
-Daily Scrum
+### Daily Scrum
 
 Daily Scrums helped the team stay aware of ongoing tasks and blockers, even when meetings were short or asynchronous. We noticed that regular check-ins improved transparency, but consistency needs improvement to fully benefit from this ceremony.
 
-Sprint Review
+### Sprint Review
 
 The Sprint Review allowed the team to reflect on what was completed and compare outcomes with the original Sprint Goal. Reviewing the prototype and backlog together helped align expectations and identify gaps early.
 
-Retrospective
+### Retrospective
 
 The Retrospective encouraged honest reflection on teamwork, communication, and task distribution. Using the 4L method made it easier to express feedback and highlight areas for improvement in a structured way.
 
-More on Scrum
+### More on Scrum
 
 Overall, Scrum helped the team organize work incrementally and maintain focus on deliverables. We learned that clear roles, frequent communication, and realistic planning are essential for making Scrum effective in practice.
 
