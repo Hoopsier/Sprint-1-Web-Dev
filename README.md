@@ -29,6 +29,17 @@
 - Lacked: Skills/Understanding for my tasks and being active with my group
 - Longed for: Maybe clearer instructions
 
+### Noel: 
+- Liked: Designing wireframes in Figma and defining UI components using Atomic Design principles.
+
+- Learned: How to translate user needs into reusable components and basic user flow logic.
+
+- Lacked: More feedback rounds to validate usability decisions early.
+
+- Longed For: Closer collaboration with the team to refine navigation logic and user experience.
+
+https://www.figma.com/design/Lpyjul1x8cQWLTdM5JiIDr/YumDrop.com?node-id=32-274&t=x8JrvWecVuaC9dyf-1
+
 # Sprint 2 Goal
 By the end of Sprint 2, the team will deliver a working front-end and back-end structure aligned with the Sprint 1 prototype, including mock data, and initial AI-related endpoints.
 
