@@ -38,3 +38,15 @@
 
 # Sprint 2 Goal
 By the end of Sprint 2, the team will deliver a working front-end and back-end structure aligned with the Sprint 1 prototype, including mock data, and initial AI-related endpoints.
+
+# Product Backlog – Food E-commerce 
+
+
+As the **Product Owner**, I ensured that a Product Backlog exists for the MERN-based Food E-commerce application. The Product Backlog has been created and maintained to provide a clear, prioritized view of all work required for the project.
+
+The Product Backlog includes both **functional** and **technical requirements**, covering the full scope of the application. This includes:
+
+- **Front-end requirements** such as React application setup, routing, and UI development aligned with the approved prototype  
+- **Back-end requirements** including Express server configuration, REST API development, authentication, and MongoDB schema design  
+- **AI-related items** such as initial AI endpoints and mock or placeholder recommendation logic  
+- **Infrastructure-related items** including environment configuration, project structure, GitHub documentation, and deployment preparation  
