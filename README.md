@@ -24,5 +24,11 @@
 - Clearer API contracts between frontend and backend.
 - Reduced stress through better time planning.
 
+### Dornaraj
+-	Liked: Frontend design
+-	Learned: Communication and Coding
+-	Lacked: regular team meetings
+-	Longed For: More open discussions and idea sharing 
+
 # Sprint 2 Goal
 By the end of Sprint 2, the team will deliver a working front-end and back-end structure aligned with the Sprint 1 prototype, including mock data, and initial AI-related endpoints.
