@@ -38,9 +38,9 @@
 
 - Longed For: Closer collaboration with the team to refine navigation logic and user experience.
 
-Prototype (Low-Fidelity – Figma):
+### Prototype (Low-Fidelity – Figma):
 https://www.figma.com/design/Lpyjul1x8cQWLTdM5JiIDr/YumDrop.com?node-id=32-274&t=x8JrvWecVuaC9dyf-1
-
+### Trello - https://trello.com/invite/b/696f90619255eae7df9c7ad6/ATTIc024ede14f461a3c3f39e59bbeae2bceB869B65D/group-web-project
 
 # 4. Product Backlog Review and Creation
 # Product Backlog – Food E-commerce 
