@@ -30,7 +30,7 @@
 -	Lacked: regular team meetings
 -	Longed For: More open discussions and idea sharing
 
--	- ### Bob: 
+ ### Bob: 
 - Liked: Learning new things and concepts
 - Learned: Communication with my group 
 - Lacked: Skills/Understanding for my tasks and being active with my group
