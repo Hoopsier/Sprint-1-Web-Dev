@@ -28,7 +28,13 @@
 -	Liked: Frontend design
 -	Learned: Communication and Coding
 -	Lacked: regular team meetings
--	Longed For: More open discussions and idea sharing 
+-	Longed For: More open discussions and idea sharing
+
+-	- ### Bob: 
+- Liked: Learning new things and concepts
+- Learned: Communication with my group 
+- Lacked: Skills/Understanding for my tasks and being active with my group
+- Longed for: Maybe clearer instructions
 
 # Sprint 2 Goal
 By the end of Sprint 2, the team will deliver a working front-end and back-end structure aligned with the Sprint 1 prototype, including mock data, and initial AI-related endpoints.
