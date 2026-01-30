@@ -140,7 +140,7 @@ Create an initial AI-related endpoint that returns mock or rule-based food recom
 **Story Points:** 3  
 **Responsible:** Backend Developer  
 ## Sprint ceremonies' insights
-**Renan:** The ceremonies so far have been insightful. People are more likey to be caught unaware of something, resulting in others helping to fix that "bump on the road." 
+"The ceremonies so far have been insightful. People are more likey to be caught unaware of something, resulting in others helping to fix that "bump on the road."" - Renan
 
 ### Daily Scrum
 
